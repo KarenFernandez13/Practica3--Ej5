@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\bin\Debug\Pract3-Ej5.exe.config
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\bin\Debug\Pract3-Ej5.exe
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\bin\Debug\Pract3-Ej5.pdb
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\obj\Debug\Pract3-Ej5.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\obj\Debug\Pract3-Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\obj\Debug\Pract3-Ej5.exe
+C:\Users\Usuario\source\repos\Pract3-Ej5\Pract3-Ej5\obj\Debug\Pract3-Ej5.pdb

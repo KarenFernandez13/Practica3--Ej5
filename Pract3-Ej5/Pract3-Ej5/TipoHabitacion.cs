@@ -19,5 +19,13 @@ namespace Pract3_Ej5
             this.costoNoche = costoNoche;
         }
 
+        public int getCodigoTipo() { return codigoTipo; }
+        public string getNombreTipo() { return NombreTipo;} 
+        public double getCostoNoche() {  return costoNoche; }   
+
+        public void setCodigoTipo(int codigoTipo) { this.codigoTipo = codigoTipo; }
+        public void setNombreTipo(string nombreTipo) { this.NombreTipo= nombreTipo; }
+        public void setCostoNoche(double costoNoche) { this.costoNoche= costoNoche; }
+
     }
 }
