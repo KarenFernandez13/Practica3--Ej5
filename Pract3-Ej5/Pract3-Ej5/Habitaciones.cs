@@ -21,5 +21,14 @@ namespace Pract3_Ej5
             this.descripcion = descripcion;
             this.Tipo = new TipoHabitacion(codigoTipo,nombreTipo, costoNoche);
         }
+        public int getNumeroHab() {  return numeroHab; }
+        public int getPiso() {  return Piso; }
+        public string getDescripcion() { return descripcion; }
+        public TipoHabitacion getTipo() { return Tipo; }
+
+        public void setNumeroHab(int numeroHab) { this.numeroHab=numeroHab; }
+        public void setPiso(int piso) { this.Piso=piso; }
+        public void setDescripcion(string descripcion) { this.descripcion = descripcion; }
+        public void setTipoHabitacion(TipoHabitacion Tipo) { this.Tipo=Tipo; }
     }
 }

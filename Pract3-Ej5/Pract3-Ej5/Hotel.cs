@@ -16,9 +16,15 @@ namespace Pract3_Ej5
         {
             this.direccion = direccion; 
             this.nombre = nombre;
-
         }
 
+        public string getDireccion() { return direccion; }
+        public string getNombre() {  return nombre; }
 
+        public void setDireccion(string direccion)
+        {
+            this.direccion=direccion;
+        }
+        public void setNombre(string nombre) { this.nombre=nombre; }    
     }
 }
